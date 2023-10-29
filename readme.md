@@ -3,6 +3,7 @@
   * *You can add multiple Students*
   * *You can remove Students*
   * *View the list of your Students...*
+  * *Manage everything about your student information*
     
 **use this and have fun :)**
 
